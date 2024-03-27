@@ -1,14 +1,22 @@
-{
-  "name": "my_practices",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+[
+  {
+    "name": "Ali",
+    "age": 20
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Azizbek2904/My_Practices.git"
+  {
+    "name": "vali",
+    "age": 22
   },
-  "private": true
-}
+  {
+    "name": "Eshmat",
+    "age": 19
+  },
+  {
+    "name": "Toshmat",
+    "age": 19
+  },
+  {
+    "name": "Bolta",
+    "age": 19
+  }
+]
